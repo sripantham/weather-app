@@ -1,4 +1,4 @@
-// File: C:\Users\upend\Documents\Shree\Work\VSCodeWorkSpace\NEXTJS\weather-app\src\app\page.tsx
+// File: C:\Users\upend\Documents\Shree\Work\git\weather-app\weather-app-1\src\app\page.tsx
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
